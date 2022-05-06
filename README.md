@@ -7,7 +7,7 @@
 - 인원: 문석민, 이세현
 - 개발 도구: Colab, Mac OS Jupyter notebook
 - 협업: Git, Github, Slack, Notion
-- 언어: python 3.8
+- 언어: Python 3.8
 - 라이브러리:Numpy, Pandas
 - 시각화 라이브러리: Seaborn
 - 머신러닝 라이브러리: Scikit-learn
