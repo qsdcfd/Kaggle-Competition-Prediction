@@ -13,11 +13,15 @@
 - 머신러닝 라이브러리: Scikit-learn
 - 딥러닝 라이브러리: Tensorflow
 
-## Installation
 
-## How to start
+<br>
 
-## Contributing
+### 파일 설명
 
-
-## LINCENSE
+- feat: 기능 개발 관련
+- fix: 오류 개선 혹은 버그 패치
+- docs: 문서화 작업
+- test: test 관련
+- conf: 환경설정 관련
+- build: 빌드 관련
+- ci: Continuous Integration 관
