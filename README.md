@@ -5,7 +5,7 @@
 ### Basic information
 
 - 인원: 문석민, 이세현
-- 개발 도구: Colab, Mac OS Jupyter notebook
+- 개발 도구: Colab, Window & Mac OS Jupyter notebook
 - 협업: Git, Github, Slack, Notion
 - 언어: Python 3.8
 - 라이브러리:Numpy, Pandas
